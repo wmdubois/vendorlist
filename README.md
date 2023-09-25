@@ -1,5 +1,3 @@
-This project is for Quiz I of the Fall Semester 2022.
-
 You are required to clone the repo, work the problem and push changes/updates to your repo with appropriate comments.
 
 Review the instructions in the file createMarketingList.py. Take note of the suggested comments. Please note that not all steps are commented.
