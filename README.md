@@ -8,6 +8,6 @@ Activate the virtual environment and install the library - wordcloud.
 
 To make sure you have installed the library correctly run the file nyc_trends.py It should generate a new image file named trends.png which is a wordcloud of the most popular tweets in NYC.
 
-Make sure your GitHub repo DOES NOT contain your virtual environment.
+Make sure your GitHub repo DOES NOT contain your virtual environment and does not contain the file marketinglist.csv.
 
 Make sure your Github repo DOES contain your .gitignore file.
