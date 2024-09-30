@@ -1,7 +1,8 @@
 # Read the file VendorList.csv into this program and create a dictionary of the customer's
 # full name, email address and phone number where the key is the full name of the customer
 # and the value is a dictionary where the keys are 'email' and 'phone' and the values
-# are the corresponding email address and phone number of the customer. 
+# are the corresponding email address and phone number of the customer. So it is a dictionary
+# within a dictionary. 
 
 # Once the dictionary has been completed print it out. It shoud resemble what is shown
 # below (first 2 and last 2 elements shown only):
